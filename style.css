@@ -48,7 +48,7 @@ nav li a:hover {
     width: 50%;
 }
 .section1 .photo {
-    background-image: url(file:///C:/Users/user/Desktop/manage%20landing%20page/images/bg-tablet-pattern.svg);
+    background-image: url(./bg-tablet-pattern.svg);
     background-repeat: no-repeat;
     background-size: 120%;
     background-position: top;
@@ -86,7 +86,7 @@ h1, h3 {
 }
 .section2 .note1 {
     padding-left: 80px;
-    background-image: url(file:///C:/Users/user/Desktop/manage%20landing%20page/images/bg-tablet-pattern.svg);
+    background-image: url(./bg-tablet-pattern.svg);
     background-position-x: 140%;
     background-position-y: -40%;
     background-repeat: no-repeat;
@@ -158,7 +158,7 @@ a {
     margin-bottom: 7em;
 }
 .section4 {
-    background-image: url(file:///C:/Users/user/Desktop/manage%20landing%20page/images/bg-simplify-section-desktop.svg);
+    background-image: url(./bg-simplify-section-desktop.svg);
     background-size: 100%;
     min-height: 200px;
     background-color: hsl(12, 88%, 59%);
