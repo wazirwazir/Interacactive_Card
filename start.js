@@ -19,7 +19,7 @@ function update() {
     if (input.value.match(mailformat)) {
         upcon.innerHTML = "You've sucessfully signed in for updates!"
     } else {
-        error.classList.remove('hide')
+        error.classList.remove('hiderr')
     }
 }
 tab.addEventListener('click', tar)
